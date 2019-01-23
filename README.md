@@ -1,0 +1,1 @@
+# aliendb-cordova-plugin-custom-url-scheme
