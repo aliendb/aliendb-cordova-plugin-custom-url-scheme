@@ -48,7 +48,7 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/nl/xservices/plugins/LaunchMyApp.java" target-dir="src/nl/xservices/plugins"/>
+    <source-file src="src/android/aliendb/xservices/plugins/LaunchMyApp.java" target-dir="src/aliendb/xservices/plugins"/>
 
     <config-file target="AndroidManifest.xml" parent="/manifest/application/activity">
       <intent-filter>
