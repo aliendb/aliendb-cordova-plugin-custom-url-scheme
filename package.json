@@ -6,7 +6,7 @@
     "id": "aliendb-cordova-plugin-custom-url-scheme",
     "platforms": [
       "ios",
-      "android",
+      "android"
     ]
   },
   "repository": {
