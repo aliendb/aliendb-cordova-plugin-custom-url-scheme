@@ -1,7 +1,7 @@
 {
   "name": "aliendb-cordova-plugin-custom-url-scheme",
   "version": "4.3.0",
-  "description": "Launch your app by using this URL:  mycoolapp://, you can add a path and even pass params like this: mycoolerapp://somepath?foo=bar",
+  "description": "Launch your app by using this URL:  myapp://, you can add a path and even pass params like this: myapp://somepath?foo=bar",
   "cordova": {
     "id": "aliendb-cordova-plugin-custom-url-scheme",
     "platforms": [
@@ -14,6 +14,9 @@
     "url": "git+https://github.com/aliendb/aliendb-cordova-plugin-custom-url-scheme.git"
   },
   "keywords": [
+    "URL scheme",
+    "cordova-ios",
+    "cordova-android"
   ],
   "engines": [
     {
@@ -24,7 +27,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/aliendb/aliendb-cordova-plugin-custom-url-scheme/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/aliendb/aliendb-cordova-plugin-custom-url-scheme#readme"
 }
